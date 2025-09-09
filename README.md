@@ -9,25 +9,39 @@ Este repositorio centraliza los entregables clave para:
 ## 🚀 Pasos para Revisar el Contenido/Ejecutar
 
 # Estructura de revisión (sprint 1):
-1. Analizar Backlog y Roadmap
-2. Abrir roadmap (enlace de Miro en documento)
+1. Analizar Backlog
+2. Abrir roadmap (enlace de Lucid en documento)
 3. In puts/Out puts de prompts y resultados:
    - guiones_texto-a-texto/*.txt (perfiles de audiencia)
-      * documento (Conversación_25)
-   - guiones_texto-a-imagen/*.txt (prompts de diseño)
-      * documentos (Monty_joves.txt y Monty_tradicional.txt)
-      * resultados de imagen (Monty_joven.png y Monty_tradicional.png)
+      * documento (conversación_6)
+   - resultados guiones_texto-a-texto/*.png (capturas de pantalla)
+      * documento (entregable_1_conversación_6)
+      * documento (entregable_2_conversación_6)
+      * documento (entregable_3_conversación_6)
+      * documento (entregable_4_conversación_6)
+   - guiones_texto-a-imagen/*.txt (diseño de imagen)
+      * documento (monty_jovenes.txt)
+      * documento (monty_tradicional.txt)
+   - resultados guiones_texto-a-imagen/*.png (capturas de pantalla)
+      * documento (monty_joven)
+      * documento (monty_tradicional)
 
 # Estructura de revisión (sprint 2):
-1. Analizar Backlog y Roadmap
+1. Revisar Backlog y Roadmap
 2. In puts/Out puts de promts y resultados
    - guiones_texto-a-texto/*.csv (lista de equipos)
       * documento (baseball_usa_pets)
    - guiones_texto-a-texto/*.txt (experto de marketing)
       * documento (conversación_15)
+   - resultados guiones_texto-a-texto/*.png (capturas de pantalla)
+      * documento (entregable_1_conversación_5)
+      * documento (entregable_2_conversación_8)
+      * documento (entregable_3_conversación_8)
+      * documento (entregable_4_conversación_8)
+      * documento (entregable_5_conversación_8)
     
 # Estructura de revisión (sprint 3):
-1. Analizar Backlog y Roadmap
+1. Revisar Backlog y Roadmap
 2. In puts/Out puts de promts y resultados
    - guiones_texto-a-texto/*.csv (programa de rediseño de imagen)
       * documento (programa_rediseño_tradicional)
@@ -48,6 +62,6 @@ Este repositorio centraliza los entregables clave para:
 ### Prerrequisitos
 ```bash
 # Herramientas recomendadas
-- Miro (para roadmap interactivo)
-- Leonardo.Ai (para generación de imágenes)
+- Lucid (para roadmap interactivo)
+- Gemini (para generación de imágenes)
 - DeepSeek R1 (para reproducir prompts)
