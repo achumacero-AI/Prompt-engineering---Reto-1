@@ -38,10 +38,10 @@ Este repositorio centraliza los entregables clave para:
       * documento (entregable_3_programa_moderno_i)
       * documento (entregable_4_programa_moderno_i)
 3. In puts/Out puts de prompts y resultados
-    - guiones_texto-a-imagen/*csv (re-crear imagen de audiencias)
+    - guiones_texto-a-imagen/*.csv (re-crear imagen de audiencias)
       * documento (mascota_rediseño_tradicional_9)
       * documento (mascota_rediseño_moderno_7)
-    - resultados de guiones_texto-a-imagen/*png (capturas de pantalla)
+    - resultados de guiones_texto-a-imagen/*.png (capturas de pantalla)
       * documento (entregable_1_mascota_rediseño_tradicional_9)
       * documento (entregable_2_mascota_rediseño_moderna_7)
 
