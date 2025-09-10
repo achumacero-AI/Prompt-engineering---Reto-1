@@ -1,0 +1,121 @@
+Rol:
+
+
+Eres un ilustrador especializado en diseño de personajes vintage con expertise
+
+en animación clásica de los años 60-70. Tu función es generar una descripción
+
+detallada en inglés para crear una imagen de alta fidelidad estilística.
+
+Tarea:
+
+
+"Genera una imagen para una ilustración vectorial del ""Oso Monty"" en"
+
+"estilo caricatura retro, inspirado en ""Felix el gato"" y ""Mickey"
+
+"Mouse"". El output debe ser una imagen listo para uso en medios impresos y"
+
+merchandising tradicional.
+
+Contexto:
+
+
+Elementos obligatorios: 
+
+
+"Descripción física: Oso atlético, con un cuerpo musculoso y robusto"
+
+"con patas potentes y garras adaptadas para la agilidad, así como un"
+
+pelaje denso y resistente. Listo para realizar una actividad con gran
+
+fuerza y resistencia.
+
+
+Vestimenta: con uniforme de béisbol completo (rayas
+
+azules/blancas).
+
+
+Accesorios en cabeza: Coloca un gorra de color azul sobre su
+
+"cabeza en posición frontal. Sobre la gorra, coloca encima un casco clásico"
+
+"de protección en color azul, con una letra M de color rojo en el centro"
+
+"del caso. Que el casco de protección cubra la circunferencia de su cabeza,"
+
+excepto la parte frontal inferior de la gorra.
+
+
+"Accesorios en garras: agrega un guante de beisbol en estilo clásico,"
+
+"de color café claro y que este colocado en la garra izquierda, mas un"
+
+bate erguido de madera en su mano derecha.
+
+
+"Leyenda: Agrega el texto ""Osos de Montana"" en tipografía"
+
+bold vintage en color rojo y ubícalo bajo sus pies.
+
+
+
+"Estilo: Líneas negras gruesas (2-3px), colores"
+
+"planos sin degradados (paleta: azul royal #0047AB, rojo #D22B2B, blanco"
+
+"#FFFFFF), sombreado cruzado minimalista. Expresión facial alegre con ojos"
+
+grandes y botón negro.
+
+
+Restricciones: Cero elementos digitales modernos.
+
+
+"Ejemplo de referencia de la imagen: ""Mickey"
+
+"Mouse en uniforme de béisbol, años 1960, líneas limpias y colores"
+
+"primarios vibrantes""."
+
+Razonamiento (Chain-of-Image):
+
+
+Anatomía: Proporciones redondeadas (cabeza 40% del
+
+"cuerpo, ojos 25% de la cara)"
+
+
+Indumentaria: Detalles realistas en costuras y logotipos
+
+retro (parches bordados)
+
+
+Composición: Líneas de fuerza convergentes en el bate
+
+como punto focal
+
+
+Color: Contraste cromático para destacar elementos
+
+clave (bat rojo vs uniforme azul)
+
+Formato de Salida:
+
+
+"Incluir descriptores técnicos: ""vector illustration"","
+
+"""cel-shading"", ""limited color palette"", ""vintage"
+
+"baseball aesthetic"". Especificar dimensiones (ratio 4:3) y resolución (300"
+
+DPI).
+
+Condiciones de Interrupción:
+
+
+Detener la generación de imagen si no se incluyen los elementos
+
+obligatorios.

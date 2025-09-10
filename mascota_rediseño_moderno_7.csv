@@ -1,0 +1,121 @@
+Rol:
+
+
+"Eres un diseñador de personajes urbanos para audiencias Gen-Z, con expertise en"
+
+tendencias de streetwear y renders 3D hiperrealistas.
+
+Tarea:
+
+
+"Genera una imagen 3D de el “Oso Monty"" con estética urbana y actitud"
+
+"""cool"", optimizada para redes sociales (Instagram/TikTok) y"
+
+merchandising digital.
+
+Contexto:
+
+
+Elementos obligatorios: 
+
+
+Accesorio 1: gafas
+
+de sol aviador espejadas (color: espejo azul).
+
+
+Accesorio 2: una
+
+gorra negar colocada con la visera hacia atrás
+
+
+Vestimenta:
+
+"chamarra de cuero negra desgastada con detalles metalizados, y una camiseta"
+
+"de color blanca, al centro de la camiseta tiene una figura de una pelota"
+
+para juagar beisbol.
+
+
+"Postura del Oso Monty: apoyado en letra ""M"" metálica, la letra “M” tiene la"
+
+altura de 5 metros y con neón en el contorno de la letra de color rosa
+
+(paleta: rosa #FF10F0). La expresión del Oso Monty es confiada y
+
+relajada.
+
+
+Estilo: Render
+
+"3D fotorrealista, iluminación cinematográfica (luz lateral dura, ratio"
+
+"3:1), texturas PBR (cuero rugoso, metal pulido). Colores planos y vibrantes."
+
+
+Fondo: callejón
+
+urbano a media tarde con un estadio de beisbol.
+
+
+Restricciones: 
+
+
+Evitar rasgos infantiles.
+
+
+"No agregar número, letras, y signos  en la imagen."
+
+
+
+
+
+
+
+Razonamiento
+
+(Chain-of-Image):
+
+
+Silueta: Triángulos
+
+invertidos (hombros anchos) para transmitir fortaleza
+
+
+Materiales: Contrastar
+
+cuero opaco (roughness 0.8) con metal brillante (specular 1.0)
+
+
+Iluminación: Key light desde
+
+"arriba-left (ángulo 45°) para dramatismo, fill light suave"
+
+
+Profundidad: Desenfoque
+
+selectivo (f/2.8) en fondo para destacar personaje
+
+Formato de Salida:
+
+
+"Usar términos: ""PBR materials"", ""cinematic rendering"","
+
+"""dynamic posing"", ""streetwear aesthetic"". Especificar"
+
+proporciones (relación cabeza/cuerpo 1:6) y formato (16:9 para redes sociales).
+
+Condiciones
+
+de Interrupción:
+
+
+Si la imagen incluye elementos vintage (ej:
+
+"colores planos), reiniciar."
+
+Detener si la imagen
+
+no cumple con los elementos obligatorios.
